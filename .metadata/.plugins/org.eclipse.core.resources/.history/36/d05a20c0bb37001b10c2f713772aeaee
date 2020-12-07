@@ -1,0 +1,12 @@
+package hw;
+
+public class HelloWorld {
+	public class arr{
+		String [][] data= {
+			      {"13-9-2020","7,46"}
+		};
+	}
+	 public static void main(String[] args)  {
+		 System.out.println(data[0]);
+	 }
+}

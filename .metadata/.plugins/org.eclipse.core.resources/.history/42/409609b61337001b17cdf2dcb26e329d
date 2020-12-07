@@ -1,0 +1,10 @@
+package hw;
+
+public class merhaba {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

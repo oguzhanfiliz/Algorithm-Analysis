@@ -1,0 +1,15 @@
+package hw;
+
+public class HelloWorld {
+	public class arr{
+		float [][] data= {
+			      {13-9-2020,7,46}
+		};
+	}
+	 public static void main(String[] args)  {
+			float [][] data= {
+				      {13-9-2020,7,46}
+			};
+			System.out.print(data[0]);	 
+	 }
+}
