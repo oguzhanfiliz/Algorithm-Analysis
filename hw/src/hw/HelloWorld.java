@@ -30,10 +30,11 @@ public class HelloWorld {
 			}
 		
 			 
-			System.out.println(maxcontrolPrice);
-			System.out.println(maxDate);
-			System.out.println(mincontrolPrice);
-			System.out.println(minDate);
+
+			System.out.println("Alabileceðiniz en kaarlý dolar kuru : " + mincontrolPrice);
+			System.out.println("Alabileceðiniz tarih : "+minDate );
+			System.out.println("Satabileceðiniz en kaarlý dolar kuru : "+maxcontrolPrice);
+			System.out.println("Satabileceðiniz tarih : "+maxDate);
 			
 		 
 	
