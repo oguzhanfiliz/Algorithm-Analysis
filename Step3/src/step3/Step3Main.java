@@ -62,8 +62,7 @@ public class Step3Main
     	
     	
 
-    	
-		System.out.println("-----");
+    
     	
     	if(maxcontrolPrice < maxControlPriceSecond) {
     		System.out.println("Satabileceðiniz en kaarlý dolar kuru : " + maxControlPriceSecond);
